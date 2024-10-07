@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cturebon.github.io/sitemap.html.gz
+Sitemap: https://cturebon.github.io/app/sitemap.html.gz
+Sitemap: https://cturebon.github.io/assets/sitemap.html.gz
+Sitemap: https://cturebon.github.io/css/sitemap.html.gz
+Sitemap: https://cturebon.github.io/data/sitemap.html.gz
+Sitemap: https://cturebon.github.io/includes/sitemap.html.gz
+Sitemap: https://cturebon.github.io/item/sitemap.html.gz
+Sitemap: https://cturebon.github.io/src/sitemap.html.gz
